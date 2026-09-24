@@ -1,0 +1,11 @@
+ID ,Club,Provincia,Año de fundación,ID ciudad,,Clubes_España,,,,,,Clubes_Extranjero,,,,
+1,Real Madrid,Madrid,1902,1,,ID ,Club,Provincia,Año de fundación,ID ciudad,,ID ,Club,Provincia,Año de fundación,ID ciudad
+2,FC Barcelona,Barcelona,1899,2,,1,Real Madrid,Madrid,1902,1,,6,Paris Saint-Germain,Francia,1970,5
+3,Atlético de Madrid,Madrid,1903,1,,2,FC Barcelona,Barcelona,1899,2,,,,,,
+4,Athletic Club,Vizcaya,1898,3,,3,Atlético de Madrid,Madrid,1903,1,,,,,,
+5,Valencia CF,Valencia,1919,4,,4,Athletic Club,Vizcaya,1898,3,,,,,,
+6,Paris Saint-Germain,Francia,1970,5,,5,Valencia CF,Valencia,1919,4,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Nota: Esta separación es util en un caso real donde alguien buscase información de algun club que sea de fuera de España.,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
