@@ -1,28 +1,28 @@
-Jugador,Posición,Dorsal,Club,ID,ID Club,,,,,,
-Kylian Mbappé,Delantero,9,Real Madrid,1,1,,,,,,
-Vinícius Júnior,Delantero,7,Real Madrid,2,1,,,,,,
-Robert Lewandowski,Delantero,9,FC Barcelona,3,2,,,,,,
-Pedri,Centrocampista,8,FC Barcelona,4,2,,,,,,
-Antoine Griezmann,Delantero,7,Atlético de Madrid,5,3,,,,,,
-Jan Oblak,Portero,13,Atlético de Madrid,6,3,,,,,,
-Nico Williams,Delantero,10,Athletic Club,7,4,,,,,,
-Unai Simón,Portero,1,Athletic Club,8,4,,Jugadores_Principal,,,Jugadores_Secundaria,
-José Luis Gayà,Defensa,14,Valencia CF,9,5,,Jugador,Club,,Posición,Dorsal
-Hugo Duro,Delantero,9,Valencia CF,10,5,,Kylian Mbappé,Real Madrid,,Delantero,9
-Ousmane Dembélé,Delantero,10,Paris Saint-Germain,11,6,,Vinícius Júnior,Real Madrid,,Delantero,7
-Achraf Hakimi,Defensa,2,Paris Saint-Germain,12,6,,Robert Lewandowski,FC Barcelona,,Delantero,9
-,,,,,,,Pedri,FC Barcelona,,Centrocampista,8
-,,,,,,,Antoine Griezmann,Atlético de Madrid,,Delantero,7
-,,,,,,,Jan Oblak,Atlético de Madrid,,Portero,13
-,,,,,,,Nico Williams,Athletic Club,,Delantero,10
-,,,,,,,Unai Simón,Athletic Club,,Portero,1
-,,,,,,,José Luis Gayà,Valencia CF,,Defensa,14
-,,,,,,,Hugo Duro,Valencia CF,,Delantero,9
-,,,,,,,Ousmane Dembélé,Paris Saint-Germain,,Delantero,10
-,,,,,,,Achraf Hakimi,Paris Saint-Germain,,Defensa,2
-,,,,,,,,,,,
-Nota: Esta separación es util ya que la gente suele buscar a que club pertenece un jugador o que jugadores tiene un club,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+Jugador,Posición,Dorsal,Club,ID,ID Club,,,,,,,,
+Kylian Mbappé,Delantero,9,Real Madrid,1,1,,,,,,,,
+Vinícius Júnior,Delantero,7,Real Madrid,2,1,,,,,,,,
+Robert Lewandowski,Delantero,9,FC Barcelona,3,2,,,,,,,,
+Pedri,Centrocampista,8,FC Barcelona,4,2,,,,,,,,
+Antoine Griezmann,Delantero,7,Atlético de Madrid,5,3,,,,,,,,
+Jan Oblak,Portero,13,Atlético de Madrid,6,3,,,,,,,,
+Nico Williams,Delantero,10,Athletic Club,7,4,,,,,,,,
+Unai Simón,Portero,1,Athletic Club,8,4,,,Jugadores_Principal,,,,Jugadores_Secundaria,
+José Luis Gayà,Defensa,14,Valencia CF,9,5,,ID,Jugador,Club,,ID,Posición,Dorsal
+Hugo Duro,Delantero,9,Valencia CF,10,5,,1,Kylian Mbappé,Real Madrid,,1,Delantero,9
+Ousmane Dembélé,Delantero,10,Paris Saint-Germain,11,6,,2,Vinícius Júnior,Real Madrid,,2,Delantero,7
+Achraf Hakimi,Defensa,2,Paris Saint-Germain,12,6,,3,Robert Lewandowski,FC Barcelona,,3,Delantero,9
+,,,,,,,4,Pedri,FC Barcelona,,4,Centrocampista,8
+,,,,,,,5,Antoine Griezmann,Atlético de Madrid,,5,Delantero,7
+,,,,,,,6,Jan Oblak,Atlético de Madrid,,6,Portero,13
+,,,,,,,7,Nico Williams,Athletic Club,,7,Delantero,10
+,,,,,,,8,Unai Simón,Athletic Club,,8,Portero,1
+,,,,,,,9,José Luis Gayà,Valencia CF,,9,Defensa,14
+,,,,,,,10,Hugo Duro,Valencia CF,,10,Delantero,9
+,,,,,,,11,Ousmane Dembélé,Paris Saint-Germain,,11,Delantero,10
+,,,,,,,12,Achraf Hakimi,Paris Saint-Germain,,12,Defensa,2
+,,,,,,,,,,,,,
+Nota: Esta separación es util ya que la gente suele buscar a que club pertenece un jugador o que jugadores tiene un club,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
